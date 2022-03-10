@@ -13,7 +13,22 @@ html {
     color: white;
 }
 
+.content h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
 .content p {
+    color: gray;
+    font-size: 21px;
+}
+
+.content a {
     font-size: 16px;
     color: aquamarine;
+}
+
+footer .text-right {
+    text-align: right;
 }
